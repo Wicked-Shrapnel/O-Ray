@@ -1,0 +1,10 @@
+{
+  "id": "test-plan-writer",
+  "name": "Test Plan Writer",
+	"version": "0.1.25",
+  "minAppVersion": "1.4.0",
+  "description": "X-Ray style test plan editor with draft backups, field-level editing, copy buttons, linked URLs, and project folders.",
+  "author": "Test Plan Writer Contributors",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
