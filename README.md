@@ -7,7 +7,8 @@ I was inspired to make this so that I could have somewhere to write plans offlin
 - Add additional steps above or below. Existing steps. 
 - Click and drag to rearrange steps. 
 
-![[Pasted image 20260825214803.png]]
+<img width="1280" height="907" alt="image" src="https://github.com/user-attachments/assets/aa96cd50-1a1b-412c-9e77-ccbae25b79aa" />
+
 The only thing that's missing is an inline way to format the text using bold, underline, color highlighting, etc. Which I do plan to add in the future. 
 
 One new set of features that I added was step history, so the user can delete steps and save them to be restored later. Either replacing a step or restoring it side by side with its replacement. 
