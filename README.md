@@ -1,13 +1,13 @@
 O-Ray is an X-ray inspired Obsidian plugin that can be used to help the user write test plans. 
 
-I was inspired to make this so that I could have somewhere to write plans offline where I could easily copy the steps and so I wouldn't have to rely on formatting a Word document. The plugin is designed for the user to easily be able to copy the steps to something like X-Ray as soon as they're ready. 
+I was inspired to make this so that I could have somewhere to write plans offline where it was easy to use and didn't require any formatting in a Word document. The plugin is designed for the user to easily be able to copy the steps into something like X-Ray as soon as they're ready. 
 
- The core features that X-Ray are here: 
+ The core features of X-Ray are here: 
 - Write steps using action, data, and expected result. 
-- Add additional steps above or below. Existing steps. 
+- Add additional steps above or below existing steps. 
 - Click and drag to rearrange steps. 
 
-<img width="1280" height="907" alt="image" src="https://github.com/user-attachments/assets/aa96cd50-1a1b-412c-9e77-ccbae25b79aa" />
+<img width="1280" height="907" alt="image" src="https://github.com/user-attachments/assets/48fc974d-8b1a-4c38-ba99-1fc3d2fc6667" />
 
 The only thing that's missing is an inline way to format the text using bold, underline, color highlighting, etc. Which I do plan to add in the future. 
 
